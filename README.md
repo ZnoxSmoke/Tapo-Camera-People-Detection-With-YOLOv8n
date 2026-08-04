@@ -1,2 +1,2 @@
 # Tapo-YOLOv8-People-detection
-# This is my first repo
+This is my first repo
